@@ -1,5 +1,3 @@
-# Assignment-1
-This is all about resuming building with the help of html basic which include link, table etc.
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,11 +8,11 @@ This is all about resuming building with the help of html basic which include li
   </head>
   <body>
     <h1>Resume</h1>
-    <img
-      src="140photo.jpg"
+    <img 
+      src="profile photo.jpg"
       alt="Image is not supported"
-      width="60px"
-      height="60px"
+      width="100px"
+      
     />
     <h3>Vedant Jitendra Bhagyawant</h3>
     <h4 style="color: blue">Interests</h4>
@@ -68,3 +66,4 @@ This is all about resuming building with the help of html basic which include li
    
   </body>
 </html>
+
